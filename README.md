@@ -29,12 +29,6 @@ I am a **Full Stack Developer** passionate about creating impactful and innovati
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=louisan42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/louisan42/louisan42/output/snake.svg" alt="Snake animation" />
-
-###
-
 ---
 
 ## 🚀 Featured Projects
@@ -104,9 +98,9 @@ Frontend implementation for the Cohort 6 yearbook platform.
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisan42)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-amoah-nuamah)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://louis-amoah.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louisan42@gmail.com)
 
 ---
 
